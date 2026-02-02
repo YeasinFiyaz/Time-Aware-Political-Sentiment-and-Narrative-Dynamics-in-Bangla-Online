@@ -36,39 +36,29 @@ Removal of noise and empty records
 
 Models implemented and compared:
 
-Logistic Regression (TF-IDF)
-
-Linear Support Vector Machine
-
-Stochastic Gradient Descent (Logistic loss)
-
-Multinomial Naïve Bayes
+- Logistic Regression (TF-IDF)
+- Linear Support Vector Machine
+- Stochastic Gradient Descent (Logistic loss)
+- Multinomial Naïve Bayes
 
 Evaluation metrics:
 
-Accuracy
-
-Precision, Recall, F1-score
-
-Confusion Matrix
-
-ROC curves (one-vs-rest)
+- Accuracy
+- Precision, Recall, F1-score
+- Confusion Matrix
+- ROC curves (one-vs-rest)
 
 3️⃣ Topic Modeling (Unsupervised)
 
-Latent Dirichlet Allocation (LDA)
-
-Topic-wise word distributions
-
-Topic vs. sentiment interaction analysis
+- Latent Dirichlet Allocation (LDA)
+- Topic-wise word distributions
+- Topic vs. sentiment interaction analysis
 
 4️⃣ Temporal Analysis
 
-Yearly sentiment share trends
-
-Monthly net sentiment index
-
-Time-aware visualization of political discourse evolution
+- Yearly sentiment share trends
+- Monthly net sentiment index
+- Time-aware visualization of political discourse evolution
 
 📊 Outputs
 
